@@ -1,5 +1,5 @@
 import os
 
-TOKEN = os.environ.get("DISCORD_TOKEN", "")
+TOKEN = os.environ.get("DISCORD_BOT_TOKEN", "")
 
 PREFIX = "!"
